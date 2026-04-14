@@ -24,16 +24,3 @@ Sempre viso conhecer novas tecnologias, me aprimorar em conhecimentos fundamenta
 ### Sistemas operacionais
 - Microsoft Windows
 - Linux (distribuições baseadas em Debian)
-
-## Sempre 🤭
-
-```
-while True:
-    programar()
-
-```
-```
-while (True) {
-    programar()
-}
-```
