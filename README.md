@@ -24,3 +24,6 @@ Sempre viso conhecer novas tecnologias, me aprimorar em conhecimentos fundamenta
 ### Sistemas operacionais
 - Microsoft Windows
 - Linux (distribuições baseadas em Debian)
+
+## Formação
+- Técnico em Desenvolvimento de Sistemas (**em andamento**)
