@@ -1,16 +1,39 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**pedrodev2007/pedrodev2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim 🕵️‍♂️
 
-Here are some ideas to get you started:
+Meu nome é Pedro Paulo e, atualmente, sou estudante em **Desenvolvimento de Sistemas**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sempre viso conhecer novas tecnologias, me aprimorar em conhecimentos fundamentais e superar desafios.
+
+## Tecnologias conhecidas 🖥️
+
+### Linguagens
+- **Back-end**: Java, Python
+- **Front-end:** Javascript, HTML5, CSS3
+
+### Banco de dados
+- SQL Server (T-SQL, Procedures, Joins)
+- SQLite
+
+### Ferramentas e Versionamento
+- **Banco de dados:** SSMS, DBeaver
+- **IDE/Editores:** VS Code, Apache NetBeans
+- **Git e Github**
+
+### Sistemas operacionais
+- Microsoft Windows
+- Linux (distribuições baseadas em Debian)
+
+## Sempre 🤭
+
+```
+while True:
+    programar()
+
+```
+```
+while (True) {
+    programar()
+}
+```
