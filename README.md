@@ -25,5 +25,5 @@ Sempre viso conhecer novas tecnologias, me aprimorar em conhecimentos fundamenta
 - Microsoft Windows
 - Linux (distribuições baseadas em Debian)
 
-## Formação
+## Formação 🎓
 - Técnico em Desenvolvimento de Sistemas (**em andamento**)
